@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NovoCadastro</string>
+    <string name="btn_text">Iniciar</string>
+    <string name="btn_text_voltar">Voltar</string>
+    <string name="btn_text_abrir_cadastro">Cadastrar</string>
+    <string name="btn_text_visualizar">Visualizar</string>
+    <string name="textNome">Nome: </string>
+    <string name="textTelefone">Telefone: </string>
+    <string name="btn_text_list">Listview</string>
+</resources>
